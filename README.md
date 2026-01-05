@@ -19,7 +19,7 @@ The goal of this homelab is to learn virtualization, networking, system administ
 ## Documented Services & VMs
 
 ### Pi-hole — DNS & Network Filtering
-![`pihole.md`](docs/pihole.md)
+![pihole.md](docs/pihole.md)
 
 - Network-wide DNS server
 - Blocks ads, trackers, and unsafe domains
@@ -27,8 +27,8 @@ The goal of this homelab is to learn virtualization, networking, system administ
 
 ---
 
-### 🎮 Minecraft Server — Local VM
-![`minecraft-server.md`](docs/minecraft-server.md)
+### Minecraft Server — Local VM
+![minecraft-server.md](docs/minecraft-server.md)
 
 - Linux-based Minecraft server
 - Runs internally on the home network
@@ -37,7 +37,7 @@ The goal of this homelab is to learn virtualization, networking, system administ
 ---
 
 ### 🪟 Windows Virtual Machine
-![`windows-vm.md`](docs/windows-vm.md)
+![windows-vm.md](docs/windows-vm.md)
 
 - Windows VM for learning IT administration
 - User management, permissions, and file access
@@ -46,7 +46,7 @@ The goal of this homelab is to learn virtualization, networking, system administ
 ---
 
 ## 🛣️ Roadmap & Future Plans
-![`roadmap.md`](docs/roadmap.md)
+![roadmap.md](docs/roadmap.md)
 
 Planned additions include:
 - WireGuard VPN for secure remote access
