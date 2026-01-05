@@ -20,18 +20,18 @@ Rather than running ad blockers on individual devices, Pi-hole provides **networ
 
 ## How I Use Pi-hole
 
-### 🧭 DNS Resolution
+### DNS Resolution
 - Acts as the main DNS resolver for devices on my home network
 - All DNS queries pass through Pi-hole before reaching upstream DNS providers
 
-### 🚫 Ad & Tracker Blocking
+### Ad & Tracker Blocking
 - Uses blocklists to prevent connections to:
   - Ad servers
   - Tracking domains
   - Known malicious or unsafe sites
 - Reduces ads across browsers, mobile devices, and smart devices
 
-### 🔐 Network Visibility & Control
+### Network Visibility & Control
 - Provides insight into:
   - DNS query volume
   - Top queried domains
