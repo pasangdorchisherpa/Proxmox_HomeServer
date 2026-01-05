@@ -59,4 +59,4 @@ Rather than running ad blockers on individual devices, Pi-hole provides **networ
 
 ## Screenshot
 
-![Image](main/Screenshots/pi-hole.png)
+![Image](../Screenshots/pi-hole.png)
