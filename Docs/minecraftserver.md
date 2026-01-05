@@ -58,6 +58,6 @@ It is designed primarily for **local network play**, with optional access throug
 
 ## Screenshots
 
-![i3](Screenshots/minecraftserver_summary.png)
-![i1](Screenshots/minecraftserver_console.png)
-![i2](Screenshots/minecraftserver_hardware.png)
+![i3](../Screenshots/minecraftserver_summary.png)
+![i1](../Screenshots/minecraftserver_console.png)
+![i2](../Screenshots/minecraftserver_hardware.png)
