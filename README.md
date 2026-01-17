@@ -45,15 +45,36 @@ The goal of this homelab is to learn virtualization, networking, system administ
 
 ---
 
+### Tailscale — Secure VPN / Tunnel
+**Tailscale**
+- WireGuard-based mesh VPN
+- Secure remote access to internal services
+- Used to expose select home server services without port forwarding
+- Enables access to the homelab from external networks with minimal configuration
+
+---
+
+### ☁️ Nextcloud — Private File Sharing & NAS
+**Nextcloud**
+- Self-hosted file storage and transfer
+- Acts as a personal NAS and file-sharing platform
+- Accessible only via VPN for security
+
+**Real-world validation:**
+- Successfully tested long-distance file transfers with a remote user in **Nepal**
+- Confirms cross-continental accessibility, encryption, and reliability
+- Other home server services are also accessible remotely via Tailscale, with expected latency
+
+---
+
 ## Roadmap & Future Plans
 [Roadmap](docs/roadmap.md)
 
 Planned additions include:
-- WireGuard VPN for secure remote access
 - TrueNAS VM for centralized storage and backups
-- Nextcloud for private file and photo sharing
 - Improved monitoring, backups, and automation
-
+- Automated backups and snapshots
+  
 ---
 
 ## Goals of This Homelab
