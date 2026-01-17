@@ -4,24 +4,6 @@ This document outlines planned additions and improvements to my Proxmox VE homel
 
 ---
 
-## Short-Term Goals
-
-### WireGuard VPN
-- Secure remote access to the home network
-- Access internal services without exposing ports publicly
-
-### TrueNAS (NAS VM)
-- Centralized file storage
-- Backups for VMs and personal data
-- Shared storage across devices
-
-### Nextcloud
-- Self-hosted file and photo sharing
-- Personal cloud replacement
-- Access controlled via VPN
-
----
-
 ## Long-Term Goals
 
 - Automated backups
