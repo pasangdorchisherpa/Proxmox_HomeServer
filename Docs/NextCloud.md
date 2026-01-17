@@ -1,8 +1,8 @@
-# Nextcloud — Private Cloud Storage (LXC)
+# Nextcloud — Private Cloud Storage (VM)
 
 ## Overview
 
-This homelab runs **Nextcloud** inside a **Linux Container (LXC)** on Proxmox VE to provide private, self-hosted file storage and sharing.
+This homelab runs **Nextcloud** inside a **Linux Container (VM)** on Proxmox VE to provide private, self-hosted file storage and sharing.
 
 The service functions as a personal cloud and NAS replacement, offering features similar to Google Drive while keeping full control over data, access, and security.
 
@@ -19,17 +19,18 @@ Nextcloud was chosen to:
 - Enable secure file sharing across long distances
 - Integrate cleanly into an existing Proxmox-based homelab
 
-Running Nextcloud in an LXC provides:
-- Lightweight resource usage
-- Fast startup and recovery
-- Easy backups and snapshots
+Running Nextcloud in an VM provides:
 - Strong isolation from the Proxmox host
+- Clear separation of services
+- Independent OS-level updates and configuration
+- Predictable resource allocation
 
+This approach prioritizes stability and security over minimal resource usage.
 ---
 
 ## Real-World Usage
 
-This Nextcloud instance is actively shared with my girlfriend, who is located in **Nepal**.
+This Nextcloud instance is actively shared with my family.
 
 We use it as our primary cloud storage solution instead of Google Drive for:
 
