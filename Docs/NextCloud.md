@@ -84,8 +84,8 @@ Advanced features are added gradually as the homelab evolves.
 ## Screenshots
 
 
-![i1]{../Screenshots/NextcloudHomeScreen.png}
-![i2]{../Screenshots/NextcloudServer.png}
+![i1](../Screenshots/NextcloudHomeScreen.png)
+![i2](../Screenshots/NextcloudServer.png)
 
 ---
 
