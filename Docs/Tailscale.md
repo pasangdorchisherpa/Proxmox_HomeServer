@@ -85,3 +85,8 @@ No services are publicly exposed to the internet.
 ## Summary
 
 Tailscale transformed remote access for my Proxmox home server from a complex networking challenge into a secure, scalable, and low-maintenance solution.
+
+
+## Screenshots
+
+![Hub](../Screenshots/Tailscalepng.png)
